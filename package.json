@@ -1,0 +1,23 @@
+{
+  "name": "sinai",
+  "version": "1.0.0",
+  "description": "SINAI TEST",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "sinai",
+    "test"
+  ],
+  "author": "Luis Teixeira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-validator": "^6.14.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.19.6",
+    "@babel/preset-env": "^7.19.4"
+  }
+}
